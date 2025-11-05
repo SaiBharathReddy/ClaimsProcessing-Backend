@@ -22,10 +22,10 @@ An Anthropic API key
 git clone https://github.com/SaiBharathReddy/ClaimsProcessing-Backend.git  
 cd ClaimsProcessing-Backend/claims-processing  
 
-## Set your Anthropic API key
+### Set your Anthropic API key
 export ANTHROPIC_API_KEY=sk-ant-.......  
 
-## Build and run
+### Build and run
 mvn clean package  
 mvn spring-boot:run  
 
